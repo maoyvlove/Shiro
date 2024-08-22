@@ -7,7 +7,7 @@
 以下是一些使用 Shiro 的示例站点：
 
 - [静かな森](https://innei.in)
-- [可愛い松](https://blog.wibus.ren/)
+- [猫羽のブログす](https://www.maoyv.com/)
 - [启动台の博客](https://www.launchpadx.top/)
 
 欢迎你来体验 Shiro 的魅力！
